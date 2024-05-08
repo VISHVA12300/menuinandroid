@@ -88,9 +88,10 @@ In menu/option.xml
 ```
 
 ## OUTPUT
-![WhatsApp Image 2024-05-06 at 08 28 21_54cecb08](https://github.com/VISHVA12300/menuinandroid/assets/119404426/23c5d8b2-89b0-4825-8347-d8ad8fcb79bc)
-![WhatsApp Image 2024-05-06 at 08 28 19_781c2f6c](https://github.com/VISHVA12300/menuinandroid/assets/119404426/5ad43606-0336-4555-997f-65536ece3f99)
 
+![Screenshot 2024-05-08 103616](https://github.com/VISHVA12300/menuinandroid/assets/119404426/a5f2098b-ab34-40d5-ae64-27263e205968)
+
+![Screenshot 2024-05-08 103624](https://github.com/VISHVA12300/menuinandroid/assets/119404426/bbf62c5a-3f63-417a-9ac1-118a7666e010)
 
 
 
